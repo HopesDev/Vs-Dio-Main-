@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DIO.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="XD" x="0" y="0" width="700" height="684"/>
+	<SubTexture name="e" x="700" y="0" width="666" height="687"/>
+	<SubTexture name="kono dio da" x="0" y="687" width="729" height="656"/>
+	<SubTexture name="shaders" x="729" y="687" width="669" height="656"/>
+	<SubTexture name="talk" x="0" y="1344" width="660" height="654"/>
+</TextureAtlas>
